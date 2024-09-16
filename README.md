@@ -1,4 +1,3 @@
-# HowTo
 <html>
 <head>
 <title>HowTo</title>
